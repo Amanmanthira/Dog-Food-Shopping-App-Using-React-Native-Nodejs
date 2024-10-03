@@ -7,39 +7,30 @@ Welcome to **DogApp**, a mobile app designed to make shopping for your dog’s f
 
 ### 1. **Welcome Page**  
 ![Home Page](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture1.jpg)  
-Browse through a variety of premium dog food products.
 
 ### 2. **Login page**  
 ![Product Details](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture2.jpg)  
-Detailed information about each product.
 
 ### 3. **Signup Page**  
 ![Cart Management](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture3.jpg)  
-View and manage your shopping cart with ease.
 
 ### 4. **Home Page**  
 ![Offers](https://raw.githubusercontent.com/Amanmanthira/DogApp/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture4.gif)  
-Check out exclusive offers and discounts for your next purchase.
 
 ### 5. **Product details**  
 ![Article Page](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture5.png)  
-Read informative articles related to dog care and nutrition.
 
 ### 6. **Customer Reviews**  
 ![User Profile](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture6.png)  
-Manage and update your account details easily.
 
 ### 7. **Cart List**  
 ![Offers Page](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture7.jpg)  
-Discover offers and exclusive deals available for users.
 
 ### 8. **Emty Cart**  
 ![Product Listing](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture8.jpg)  
-View a wide range of dog food products at your fingertips.
 
 ### 9. **Article Page**  
 ![Cart Checkout](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture9.jpg)  
-A simple and intuitive checkout process for your purchases.
 
 ---
 ## 📱 Features

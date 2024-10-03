@@ -1,0 +1,289 @@
+[
+    {
+        "id": 1,
+        "image": "https://f.media-amazon.com/images/I/81Uk5cxEzML._AC_SX679_.jpg",
+        "name": "Purina Pro Plan High Protein Dog Food with Probiotics for Dogs, Shredded Blend Chicken & Rice Formula - 18 lb. Bag",
+        "price": "900LKR",
+        "description": "This high-protein dog food combines real chicken with rice for a delicious and nutritious meal. It features a unique shredded blend for enhanced taste and is formulated with probiotics to support digestive health.",
+        "reviews": [
+            "My dog loves this food! The shredded blend seems to make it more appealing to him, and he’s had fewer digestive issues since switching. — Emma L.",
+            "Great protein content and my dog’s coat looks shinier. Worth every penny! — John R."
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/I/81dsYYfe3ZL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Kibbles 'N Bits Original Savory Beef & Chicken Flavors Dry Dog Food, 45 Pound Bag",
+        "price": "1200LKR",
+        "description": "This budget-friendly dog food features a blend of beef and chicken flavors, providing a savory taste that dogs love. It's packed with essential vitamins and minerals to support overall health.",
+        "reviews": [
+            "My dogs are very picky, but they gobble this up! Great value for the amount you get. — Laura T.",
+            "Good value and my dogs seem to be thriving on it. Plus, it’s great to find a food with both beef and chicken. — Mark W."
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://m.media-amazon.com/images/I/81sGR+4K+OL._AC_SY300_SX300_.jpg",
+        "name": "Pedigree Complete Nutrition Adult Small Dog Dry Dog Food, Grilled Steak and Vegetable Flavor, 14 lb. Bag",
+        "price": "2000LKR",
+        "description": "Specially designed for small dogs, this formula features grilled steak and vegetables. It offers a balanced diet with nutrients to support dental health and a healthy coat.",
+        "reviews": [
+            "My small dog loves this food, and I appreciate the focus on dental health. It’s also great for her sensitive stomach. — Sarah M.",
+            "A little pricey, but worth it for my picky eater. She really enjoys the taste and texture. — Alice B."
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://f.media-amazon.com/images/I/71c0vVybQdL._AC_SX679_.jpg",
+        "name": "Taste of the Wild Pacific Stream Grain-Free Dry Dog Food with Smoke-Flavored Salmon 28lb",
+        "price": "1000LKR",
+        "description": "This grain-free formula features smoked salmon as the primary ingredient, providing high-quality protein and omega fatty acids for healthy skin and coat. It’s free from grains and fillers.",
+        "reviews": [
+            "My dog’s allergies have improved since we switched to this grain-free formula. She loves the taste! — Nicole P.",
+            "Expensive but effective. The quality is noticeable in my dog’s coat and energy levels. — Kevin H."
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://f.media-amazon.com/images/I/71W5CPJ8i+L._AC_SX679_.jpg",
+        "name": "PEDIGREE CHOICE CUTS IN GRAVY Adult Canned Soft Wet Dog Food Variety Pack",
+        "price": "1900LKR",
+        "description": "This variety pack offers a selection of savory, gravy-coated canned foods that are perfect for mixing with dry kibble or serving alone. Includes flavors like beef, chicken, and more.",
+        "reviews": [
+            "My dogs go wild for this wet food. It’s a great treat mixed with their dry food. — Linda G.",
+            "Good variety pack, but the gravy can be a bit too much sometimes. Overall, my dogs love it. — James F."
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://f.media-amazon.com/images/I/71qX1RXaRdL._AC_SX679_.jpg",
+        "name": "Purina One Plus Digestive Health Formula Dry Dog Food Natural with Added Vitamins, Minerals and Nutrients",
+        "price": "3900LKR",
+        "description": "This premium dry dog food is designed to promote digestive health with natural ingredients and added vitamins and minerals. It supports overall well-being with a focus on nutritional balance.",
+        "reviews": [
+            "Our dog’s digestion has improved significantly since we switched to this food. It’s a bit pricey, but worth it. — Megan R.",
+            "Love the natural ingredients and the positive effect on our dog’s health. Highly recommend! — Tom C."
+        ]
+    },
+    {
+        "id": 7,
+        "image": "https://f.media-amazon.com/images/I/81op9qZlLvL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Purina ONE Natural High Protein Dry Dog Food True Instinct with Real Beef and Salmon With Bone Broth and Added Vitamins",
+        "price": "3000LKR",
+        "description": "This high-protein dog food features real beef and salmon, complemented by bone broth for added flavor and nutrients. It’s designed to provide a complete and balanced diet with natural ingredients.",
+        "reviews": [
+            "Our dog loves the flavor and has shown more energy. The added vitamins are a bonus! — Katie L.",
+            "A little pricey, but the quality and nutrition are worth it. Our dog has a shiny coat and is more active. — Steve H."
+        ]
+    },
+    {
+        "id": 8,
+        "image": "https://f.media-amazon.com/images/I/81iFQ5Fjb6L._AC_SX679_.jpg",
+        "name": "Pedigree High Protein Adult Dry Dog Food, Beef and Lamb Flavor, 18 lb. Bag",
+        "price": "2000LKR",
+        "description": "This high-protein dry dog food features beef and lamb for a robust flavor and balanced nutrition. It supports muscle health and overall vitality with quality protein sources.",
+        "reviews": [
+            "My dog enjoys this food and seems to be more energetic. Great protein content for his needs. — Laura J.",
+            "Good value and my dog’s coat looks healthier since switching. — Ryan M."
+        ]
+    },
+    {
+        "id": 9,
+        "image": "https://f.media-amazon.com/images/I/81ValQ6qssL._AC_SX679_.jpg",
+        "name": "Purina Pro Plan Sensitive Skin and Stomach Adult Dog Food Small Breed Salmon and Rice Formula - 16 lb. Bag",
+        "price": "2900LKR",
+        "description": "Formulated specifically for small breeds with sensitive skin and stomachs, this salmon and rice formula offers gentle nutrition and helps maintain a healthy coat and digestive system.",
+        "reviews": [
+            "Perfect for my small dog’s sensitive stomach. She’s had fewer issues since we switched. — Alice S.",
+            "Great for dogs with allergies. My dog’s skin has improved significantly. — George T."
+        ]
+    },
+    {
+        "id": 10,
+        "image": "https://f.media-amazon.com/images/I/718qp7iolNL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Hill's Science Diet Sensitive Stomach & Skin, Adult 1-6, Dry Dog Food, Chicken Recipe, 15 lb Bag",
+        "price": "2790LKR",
+        "description": "Designed for adult dogs with sensitive stomachs, this chicken recipe offers easy digestion and balanced nutrition to support overall health and a healthy coat.",
+        "reviews": [
+            "My dog’s digestive issues have improved since using this food. Highly recommended for sensitive stomachs. — Janet K.",
+            "Effective for sensitive dogs and provides great nutrition. My dog has a shiny coat and good energy. — Daniel W."
+        ]
+    },
+    {
+        "id": 11,
+        "image": "https://f.media-amazon.com/images/I/71MLXjJ1FFL._AC_SX679_.jpg",
+        "name": "Amazon Brand - Wag Dry Dog Food Chicken & Sweet Potato, Grain Free 24 lb Bag",
+        "price": "6790LKR",
+        "description": "This grain-free dry dog food features chicken and sweet potato for a wholesome meal. It’s rich in protein and fiber, supporting healthy digestion and overall well-being.",
+        "reviews": [
+            "Great grain-free option! My dog loves the taste and I appreciate the high-quality ingredients. — Rachel H.",
+            "Expensive but worth it for the quality and nutrition. My dog has a lot more energy. — Chris P."
+        ]
+    },
+    {
+        "id": 12,
+        "image": "https://f.media-amazon.com/images/I/71iNFNOtwGL._AC_SX679_.jpg",
+        "name": "CANIDAE All Life Stages Chicken Meal & Rice Formula Dog Dry 40 lb",
+        "price": "4700LKR",
+        "description": "Suitable for all life stages, this chicken meal and rice formula provides complete nutrition for dogs of all ages. It’s made with high-quality ingredients and is ideal for multi-dog households.",
+        "reviews": [
+            "Perfect for our multi-dog household. They all seem to do well on this food. — Jessica L.",
+            "High-quality food and great value. My dogs’ coats are shinier and they’re more energetic. — Brian R."
+        ]
+    },
+    {
+        "id": 13,
+        "image": "https://f.media-amazon.com/images/I/71XYuv6qbiL._AC_SX679_.jpg",
+        "name": "IAMS Small & Toy Breed Adult Dry Dog Food for Small Dogs with Real Chicken, 15 lb. Bag",
+        "price": "2700LKR",
+        "description": "Formulated for small and toy breed adults, this dry dog food contains real chicken as the primary ingredient. It supports healthy digestion and a balanced diet for small dogs.",
+        "reviews": [
+            "My small dog loves this food and has maintained a healthy weight. — Linda T.",
+            "Great for small breeds. My dog’s coat looks amazing and she has plenty of energy. — Sam W."
+        ]
+    },
+    {
+        "id": 14,
+        "image": "https://f.media-amazon.com/images/I/71mlOeQ+EJL._AC_SX679_.jpg",
+        "name": "Hill's Science Diet Puppy, Small & Mini Breeds Puppy Premium Nutrition, Chicken & Barley, 12.5 lb Bag",
+        "price": "2800LKR",
+        "description": "This premium puppy food is specially formulated for small and mini breeds, offering balanced nutrition with chicken and barley. It supports healthy growth and development in puppies.",
+        "reviews": [
+            "Our new puppy loves this food and is growing well. The small kibble is perfect for her little teeth. — Emily A.",
+            "Good quality food for small breed puppies. My pup is thriving on this diet. — Nathan B."
+        ]
+    },
+    {
+        "id": 15,
+        "image": "https://f.media-amazon.com/images/I/81ipSNMpfpL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Merrick Backcountry Grain Free Dry Adult Dog Food Kibble with Freeze Dried Raw Pieces, Great Plains Red Recipe - 20.0 Lb. Bag",
+        "price": "6500LKR",
+        "description": "This grain-free dry dog food includes freeze-dried raw pieces for added nutrition and flavor. The Great Plains Red Recipe features high-quality protein sources like beef, lamb, and pork.",
+        "reviews": [
+            "My dog loves the freeze-dried raw pieces and has had noticeable improvements in coat health. — Laura F.",
+            "Expensive but high-quality. My dog is more active and has a shiny coat. — Amanda C."
+        ]
+    },
+    {
+        "id": 16,
+        "image": "https://f.media-amazon.com/images/I/71jRhJZxq2L._AC_SX679_.jpg",
+        "name": "Purina ONE True Instinct Tender Cuts in Gravy With Real Turkey and Venison, and With Real Chicken and Duck High Protein Wet Dog Food Variety Pack",
+        "price": "3400LKR",
+        "description": "This high-protein wet dog food variety pack includes tender cuts in gravy with real turkey, venison, chicken, and duck. It's a great option for mixing with dry food or serving alone.",
+        "reviews": [
+            "My dogs adore this variety pack. It’s great for mixing with their dry food or as a standalone treat. — Jessica H.",
+            "High-quality wet food that my dogs enjoy. The variety keeps them excited at mealtime. — Robert K."
+        ]
+    },
+    {
+        "id": 17,
+        "image": "https://f.media-amazon.com/images/I/718Tm6L+48L._AC_SY300_SX300_.jpg",
+        "name": "Hill's Science Diet Puppy, Large Breed Puppy Premium Nutrition, Dry Dog Food, Lamb & Brown Rice, 30 lb Bag",
+        "price": "2500LKR",
+        "description": "Specially formulated for large breed puppies, this dry dog food contains lamb and brown rice for optimal growth and development. It supports healthy bone and muscle growth.",
+        "reviews": [
+            "Perfect for our large breed puppy. He’s growing well and has a shiny coat. — Heather W.",
+            "Good quality and my puppy loves the taste. I feel confident in the nutrition it provides. — Dan S."
+        ]
+    },
+    {
+        "id": 18,
+        "image": "https://f.media-amazon.com/images/I/81j6xMOcz6L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Pedigree Choice CUTS in Gravy Adult Soft Wet Dog Food, 48 Pouch Variety Pack, 3.5 oz. Pouches",
+        "price": "2800LKR",
+        "description": "This soft wet dog food variety pack offers 48 pouches of savory, gravy-coated meals. It’s ideal for mixing with dry food or serving as a treat.",
+        "reviews": [
+            "My dogs love the gravy and variety of flavors. It’s a great addition to their meals. — Linda G.",
+            "Good quality and convenient packaging. My dogs always look forward to their meals. — Steve P."
+        ]
+    },
+    {
+        "id": 19,
+        "image": "https://f.media-amazon.com/images/I/719RBh0+hZL._AC_SY300_SX300_.jpg",
+        "name": "ACANA Wholesome Grains Dry Dog Food, Free-Run Poultry, Real Chicken & Turkey and Eggs Dog Food Recipe, 22.5lb",
+        "price": "2900LKR",
+        "description": "This dry dog food features free-run poultry, including real chicken and turkey, along with eggs for a balanced diet. It's designed with wholesome grains for easy digestion.",
+        "reviews": [
+            "Great ingredient quality and my dog loves it. His coat is shinier and he has more energy. — Michelle T.",
+            "Expensive but worth it for the nutritional value and my dog’s health. — George L."
+        ]
+    },
+    {
+        "id": 20,
+        "image": "https://f.media-amazon.com/images/I/81qYg5h13HL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Open Farm Homestead Turkey and Chicken Grain-Free Dry Dog Food, 100% Certified Humane Poultry Recipe, 22 lbs",
+        "price": "2900LKR",
+        "description": "This grain-free dry dog food features certified humane turkey and chicken. It’s formulated to provide high-quality protein and essential nutrients for a healthy diet.",
+        "reviews": [
+            "I appreciate the certified humane sourcing and my dog loves the taste. His health has improved. — Claire M.",
+            "Excellent grain-free option with high-quality ingredients. My dog’s coat is looking great. — Jake B."
+        ]
+    },
+    {
+        "id": 21,
+        "image": "https://f.media-amazon.com/images/I/71Zx5ZZ7x7L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Royal Canin Medium Breed Adult Dry Dog Food, 17 lb bag",
+        "price": "2900LKR",
+        "description": "Each Royal Canin Size Health Nutrition diet is made up of precisely balanced nutrients that supply the most effective nutrition for dogs of different weights and life stages. From X-Small to Giant formulas, Royal Canin offers precise nutrition for your dog.",
+        "reviews": [
+            "Royal Canin medium breed dog food is high-quality and my dogs love it. It provides balanced nutrition and keeps them healthy. Highly recommend! — Claire M.",
+            "We got our pitty whe she was 5 weeks old and the next day took her to the vet to have her checked and get any and all recommendations. We were told Royal Canin was the best nutritionally balanced food because they developed the food to not only be healthy but not cause any allergies at stomach upset. She has been eating Royal Canin every since and even gets jealous of her boxer sister We adopted 10 months later. The boxer was introduced to the food slowly as it was mixed in with the food she was already on until it was all Royal Canin. As they have grown they have been switched to this adult formula. They flove the taste. The size is good and we can make one bag last about 3 weeks sometimes I need to get a smaller bag to get through til I get my subscription bag but that not often just when they are very active in the spring and fall months when they play outside more. The quality is the same every time and their digestion is always good with no diarrhea or carpet scooting constipation.. — Jake B."
+        ]
+    },
+    {
+        "id": 22,
+        "image": "https://f.media-amazon.com/images/I/71l81GwN4uL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "ACANA Wholesome Grains Dry Dog Food, Red Meat and Grains, Gluten Free, Beef, Pork, and Lamb Recipe, 22.5lb",
+        "price": "2900LKR",
+        "description": "Deboned beef, deboned pork, beef meal, oatmeal, whole sorghum, whole millet, pork meal, whole oats, beef fat, deboned lamb, pollock oil, ground miscanthus grass, Natural pork flavor, beef cartilage, beef liver, pork liver, pork kidney, beef tripe, beef kidney, whole butternut squash, whole pumpkin, salt, choline chloride, vitamin E supplement, dried kelp, taurine, zinc proteinate, mixed tocopherols (preservative), vitamin D3 supplement, vitamin A acetate, freeze-dried beef liver, freeze-dried pork liver, freeze-dried lamb liver, copper proteinate, niacin, thiamine mononitrate, riboflavin, calcium pantothenate, pyridoxine hydrochloride, folic acid, vitamin B12 supplement, chicory root, turmeric, sarsaparilla root, althea root, rose hips, juniper berries, citric acid (preservative), rosemary extract, dried lactobacillus acidophilus fermentation product, dried bifidobacterium animalis fermentation product, dried lactobacillus casei fermentation product.",
+        "reviews": [
+            "Acana puppy food is the best for our Frenchies! High quality ingredients with the highest amount of protein that our pups love so much! The breeders start the pups on Acana then pass the Acana name on to the lucky, new, frenchie parents to continue feeding to them when they go to their new homes! — Claire M.",
+            " Easy to introduce this food. I mix mine with some fish at times but it’s not necessary. My vet told me I could introduce it directly and it was simple. My dogs love it.— Milivet ."
+        ]
+    },
+    {
+        "id": 23,
+        "image": "https://f.media-amazon.com/images/I/81OlRvrhnCL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "IAMS Adult Healthy Weight Control Dry Dog Food with Real Chicken, 15 lb. Bag",
+        "price": "4900LKR",
+        "description": "The kibble your dog loves with the nutrition you can count on from IAMS. IAMS PROACTIVE HEALTH Healthy Weight Control Adult Dry Dog Food with Real Chicken is a tasty dry dog recipe your dog will love. Made with real chicken as the first ingredient, wholesome grains to provide essential nutrients, and carbohydrates for healthy energy your dog will get irresistible flavor with multiple benefits. With protein sourced from chicken and eggs to support firm, strong muscles, this product also contains L-Carnitine for metabolism support and 17% less fat than MINICHUNKS. Help keep your dog healthy, happy, and playful for life with tailored nutrition from IAMS dog food.",
+        "reviews": [
+            "Seem to be a good quality product. My pups are not that picky though when it come to food",
+            " Easy to introduce this food. I mix mine with some fish at times but it’s not necessary. My vet told me I could introduce it directly and it was simple. My dogs love it.— Milivet ."
+        ]
+    },
+    {
+        "id": 24,
+        "image": "https://f.media-amazon.com/images/I/71Ew2c7vkPL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Hill's Prescription Diet i/d Digestive Care Chicken & Vegetable Stew Canned Dog Food, Veterinary Diet, 12.5 oz., 12-Pack Wet Food",
+        "price": "3000LKR",
+        "description": "Water, Chicken, Pork Liver, Carrots, Rice, Rice Starch, Sugar, Hydrolyzed Chicken Flavor, Dried Beet Pulp, Soybean Oil, Potassium Alginate, Powdered Cellulose, Calcium Chloride, Egg Whites, Potassium Citrate, L-Threonine, Dicalcium Phosphate, Guar Gum, Calcium Lactate, Calcium Gluconate, Sodium Tripolyphosphate, Psyllium Seed Husk, Monosodium Phosphate, vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate (source of Vitamin C), Thiamine Mononitrate, Niacin Supplement, Calcium Pantothenate, Vitamin B12 Supplement, Pyridoxine Hydrochloride, Biotin, Riboflavin Supplement, Vitamin D3 Supplement, Folic Acid), L-Lysine, Choline Chloride, L-Tryptophan, Taurine, minerals (Ferrous Sulfate, Zinc Oxide, Copper Sulfate, Manganese Sulfate, Calcium Iodate), Magnesium Oxide, Beta-Carotene..",
+        "reviews": [
+            "This prescription dog food is an answer to my prayers. It is expensive but worth every penny.",
+            "I've been feeding my 14 year old Shih Tzu/Miniature Poodle mix this food for the last 4 months. She loves it. I always know when it's time to feed her in the morning because she'll wake me up. I always know when it's time to feed her in the evening because she stares at me and groans until I feed her. I can tell she feels better than she did on the dry food I had her on (which was a pretty good brand, but not working for her). She is 14 and she's acting like she did when she was 10. This plus the joint supplement I've put her on has given me my puppy back.-Jeniffor B."
+        ]
+    },
+    {
+        "id": 25,
+        "image": "https://f.media-amazon.com/images/I/51XPnwje49L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+        "name": "Amazon Brand – Wag Dry Dog Food, Lamb and Brown Rice, 30 lb Bag",
+        "price": "5000LKR",
+        "description": "Lamb, lamb meal, brown rice, oatmeal, grain sorghum, rice bran, egg product, chicken fat (preserved with mixed tocopherols), peas, sweet potatoes, dried yeast, cracked pearled barley, dried beet pulp, natural flavor, flaxseed, salmon oil (a source of DHA), salt, potassium chloride, taurine, choline chloride, blueberries, raspberries, tomatoes, L-Carnitine, dried Lactobacillus plantarum fermentation product, dried Bacillus subtilis fermentation product, dried Lactobacillus acidophilus fermentation product, dried Enterococcus faecium fermentation product, dried Bifidobacterium animalis fermentation product, vitamin E supplement, iron proteinate, zinc proteinate, copper proteinate, ferrous sulfate, zinc sulfate, manganese sulfate, copper sulfate, potassium iodide, thiamine mononitrate, manganese proteinate, ascorbic acid (preservative), vitamin A supplement, biotin, niacin, calcium pantothenate, sodium selenite, pyridoxine hydrochloride, vitamin B12 supplement, riboflavin, vitamin D3 supplement, folic acid. Trace presence of substances not included in the ingredient deck may be present.",
+        "reviews": [
+            "We have tried so many different foods. We’ve been told it’s the diet in Florida GSD have been known to have many allergies! Ear infections etc. He loves this food. He’s very picky. He’s able to digest it. So many dog foods seem to upset his stomach. The cost for this vs other brands is 100% lower. There is no difficulty with his chewing it. There is no dog food smell to it. I’m so glad Amazon decided to make this. Very pleased = Michelle",
+            "We have tried Hills and many other types of dry for weight control and quality. This is by far the best choice for the price.- Teresa "
+        ]
+    },
+    {
+        "id": 26,
+        "image": "https://f.media-amazon.com/images/I/81NIjDrus0L._AC_SX679_.jpg",
+        "name": "Hill's Prescription Diet i/d Digestive Care Chicken & Vegetable Stew Canned Dog Food, Veterinary Diet, 12.5 oz., 12-Pack Wet Food",
+        "price": "3000LKR",
+        "description": "Lamb, lamb meal, brown rice, oatmeal, grain sorghum, rice bran, egg product, chicken fat (preserved with mixed tocopherols), peas, sweet potatoes, dried yeast, cracked pearled barley, dried beet pulp, natural flavor, flaxseed, salmon oil (a source of DHA), salt, potassium chloride, taurine, choline chloride, blueberries, raspberries, tomatoes, L-Carnitine, dried Lactobacillus plantarum fermentation product, dried Bacillus subtilis fermentation product, dried Lactobacillus acidophilus fermentation product, dried Enterococcus faecium fermentation product, dried Bifidobacterium animalis fermentation product, vitamin E supplement, iron proteinate, zinc proteinate, copper proteinate, ferrous sulfate, zinc sulfate, manganese sulfate, copper sulfate, potassium iodide, thiamine mononitrate, manganese proteinate, ascorbic acid (preservative), vitamin A supplement, biotin, niacin, calcium pantothenate, sodium selenite, pyridoxine hydrochloride, vitamin B12 supplement, riboflavin, vitamin D3 supplement, folic acid. Trace presence of substances not included in the ingredient deck may be present.",
+        "reviews": [
+            "We have tried so many different foods. We’ve been told it’s the diet in Florida GSD have been known to have many allergies! Ear infections etc. He loves this food. He’s very picky. He’s able to digest it. So many dog foods seem to upset his stomach. The cost for this vs other brands is 100% lower. There is no difficulty with his chewing it. There is no dog food smell to it. I’m so glad Amazon decided to make this. Very pleased = Michelle",
+            "We have tried Hills and many other types of dry for weight control and quality. This is by far the best choice for the price.- Teresa "
+        ]
+    }
+]
+

@@ -1,0 +1,17 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "app/(tabs)/article.js", "app/(tabs)/_layout.js", "app/(tabs)/account.js", "app/(tabs)/cart.js", "app/(tabs)/home.js", "app/_layout.js", "app/+html.js", "components/navigation/TabBarIcon.tsx"  ]
+}

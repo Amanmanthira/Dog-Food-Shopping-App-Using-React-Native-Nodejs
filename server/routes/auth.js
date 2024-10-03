@@ -63,16 +63,19 @@ router.post('/login', async (req, res) => {
   }
 });
 
-// Get user details
+// In your backend route
 router.get('/user', authenticate, async (req, res) => {
   try {
     const user = await User.findById(req.user.id);
+    console.log(user); // Log user data to verify
     if (!user) return res.status(404).send('User not found');
     res.json(user);
   } catch (err) {
+    console.error('Error fetching user details:', err);
     res.status(500).send('Error fetching user details');
   }
 });
+
 
 // Update user details
 router.put('/user', authenticate, async (req, res) => {

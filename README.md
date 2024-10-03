@@ -18,7 +18,7 @@ Detailed information about each product.
 View and manage your shopping cart with ease.
 
 ### 4. **Home Page**  
-![Offers](https://github.com/Amanmanthira/DogApp/blob/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture4.gif)  
+![Offers](https://raw.githubusercontent.com/Amanmanthira/DogApp/46ca55bef0b662acd3a7620cf4e4fcb031e71075/Picture4.gif)  
 Check out exclusive offers and discounts for your next purchase.
 
 ### 5. **Product details**  

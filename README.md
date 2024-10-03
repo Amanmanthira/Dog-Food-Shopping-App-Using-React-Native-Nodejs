@@ -97,4 +97,4 @@ DogApp/
 │   ├── routes/     # API Routes
 │   └── controllers/# Business logic
 └── README.md       # Project documentation
-![Picture1](https://github.com/user-attachments/assets/084c2401-cc97-474b-9734-254faaf3837a)
+![Picture1](https://github.com/user-attachments/assets/e08e03da-50d7-435c-ab08-71ec2af716fe)

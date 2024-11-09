@@ -24,7 +24,7 @@ const AccountScreen = () => {
           return;
         }
 
-        const response = await axios.get('http://192.168.8.195:5000/api/auth/user', {
+        const response = await axios.get('http://10.0.50.205:5000/api/auth/user', {
           headers: { Authorization: `Bearer ${storedToken}` }
         });
 

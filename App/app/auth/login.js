@@ -19,7 +19,7 @@ const Login = () => {
 
  const handleLogin = async () => {
   try {
-    const response = await axios.post('http://192.168.8.195:5000/api/auth/login', { email, password });
+    const response = await axios.post('http://10.0.50.205:5000/api/auth/login', { email, password });
     const { token } = response.data;
 
     if (token) {

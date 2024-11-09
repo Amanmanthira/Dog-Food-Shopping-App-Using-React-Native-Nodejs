@@ -24,7 +24,7 @@ const SignUp = () => {
       return;
     }
     try {
-      await axios.post('http://192.168.8.195:5000/api/auth/register', { firstName, lastName, email, password });
+      await axios.post('http://10.0.50.205:5000/api/auth/register', { firstName, lastName, email, password });
       Alert.alert('Success', 'Sign Up Successful');
       navigation.navigate('auth/login');
     } catch (error) {

@@ -6,7 +6,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 🚀 A modern **dog food e-commerce mobile app** built using the **MERN stack, React Native, Tailwind CSS, and CSS**.  
-🐾 Designed for an intuitive shopping experience for pet owners.  
+🐾 Designed for an intuitive shopping experience for pet owners. 
+
+### 👨‍💻 Developed by [Aman Manthira]([https://github.com/yourusername](https://github.com/Amanmanthira))  
 
 ---
 

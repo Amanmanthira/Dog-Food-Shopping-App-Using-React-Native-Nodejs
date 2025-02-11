@@ -9,7 +9,6 @@
 🐾 Designed for an intuitive shopping experience for pet owners. 
 
 ### 👨‍💻 Developed by [Aman Manthira]([https://github.com/yourusername](https://github.com/Amanmanthira))  
-
 ---
 
 ## ✨ **Features**  
